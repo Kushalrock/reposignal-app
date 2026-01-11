@@ -31,7 +31,6 @@ Reposignal allows contributors to:
 * View repository context without popularity bias
 * Provide post-merge feedback privately
 
-There are **no public ratings, scores, or leaderboards**.
 ---
 
 ## How It Works (High Level)
